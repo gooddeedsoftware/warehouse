@@ -1,0 +1,24 @@
+#mainNavbar .dropdown-menu {
+  background-color: #28a745 !important;
+}
+
+#mainNavbar .dropdown-item:hover {
+  color: white !important;
+  text-decoration: none;
+  background-color: #7bc71e !important;
+}
+
+#mainNavbar .dropdown-item {
+  color: #f8f9fa !important;
+}
+
+#mainNavbar .dropdown-item:focus {
+  color: white !important;
+  text-decoration: none;
+  background-color: #7bc71e !important;
+}
+
+#mainNavbar .navbar-nav > li > a {
+  color: #ecf0f1;
+}
+
